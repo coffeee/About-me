@@ -1,5 +1,3 @@
-# About-me
-
 const lorcan = { 
       pronouns: "He" | "Him", 
       code: ["Javascript", "C++", "PHP"], 
